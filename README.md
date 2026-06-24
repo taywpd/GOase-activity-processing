@@ -11,7 +11,6 @@ GOase-activity-processing/
 ├── GOase_plate_reader_processing.ipynb
 ├── README.md
 ├── requirements.txt
-├── example_output.csv
 ├── processed_GOase_activity_dataset.csv
 └── data/
     ├── Plate1.xlsx
